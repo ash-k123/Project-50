@@ -1,0 +1,16 @@
+h1 {
+    background-color: black;
+    color: rgb(0, 110, 255);
+    text-align: center;
+}
+body {
+    color: crimson;
+    background-color: cyan;
+    text-align: center;
+}
+.des,p{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: relative;
+}
